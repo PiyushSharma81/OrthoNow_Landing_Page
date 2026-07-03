@@ -18,7 +18,7 @@ README.md                    → this file
 ## Before you submit — 3 things you still need to do
 
 1. **Get the PageSpeed screenshot.** I can't generate a real Lighthouse score myself — it has to be measured against a live URL. Fastest path:
-   - Push this repo to GitHub, then turn on **GitHub Pages** (Settings → Pages → Deploy from branch → `main` → `/task-2-landing-page`). You'll get a URL like `https://yourname.github.io/repo/`.
+   - Push this repo to GitHub, then turn on **GitHub Pages** (Settings → Pages → Deploy from branch → `main` → `/task-2-landing-page`). You'll get a URL like `https://github.com/PiyushSharma81/OrthoNow_Landing_Page/`.
    - Run that URL through [PageSpeed Insights](https://pagespeed.web.dev/), **Mobile** tab.
    - Screenshot the score and save it as `task-2-landing-page/pagespeed-mobile-score.png`.
    - The page is built with zero external requests (no web fonts, no CDN scripts, no hosted images — everything is inline) specifically so it has a real shot at 90+; if it comes in lower, the likely culprit is whatever hosting platform you pick adding its own redirects/headers, not the page itself.
