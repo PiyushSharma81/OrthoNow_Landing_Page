@@ -55,8 +55,3 @@ The patient counts, surgeon count, and ratings shown on the landing page are ill
 
 ---
 
-## Submission checklist
-
-- [x] Repo shared with himanshu@namoza.com (or set to public)
-- [x] Loom recorded (GTM schema → live console demo → integration architecture)
-- [ ] Email sent to naman@namoza.com — subject: `Developer Assignment - [Your Name]`, with repo link + Loom link
